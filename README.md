@@ -1,7 +1,7 @@
 ** Getting And Cleaning Data Project Read Me File **
 
 This repo contains these two files -
-* run_analysis.R - R scrip to perform analysis
+* run_analysis.R - R script to perform the analysis (see 6 steps below)
 * CodeBook.md - document that describes the variables, data, and transformations
 
 This run_analysis.R script will do the following –
