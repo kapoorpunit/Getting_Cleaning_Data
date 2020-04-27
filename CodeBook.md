@@ -35,7 +35,6 @@ Creating a vector of "clean" feature names by getting rid of "()" at the end. Th
 * activity : bind of y_train and y_test
 
 Step #4 : Using descriptive activity names to name the activities in the data set
-# grouping the activity columns
 
 Grouping the activity column of dataSet as "act_group", then rename each levels with 2nd column of activity_levels. Finally applying the renamed "act_group" to dataSet's activity column.
 
