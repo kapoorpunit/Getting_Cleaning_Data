@@ -1,10 +1,12 @@
-Getting And Cleaning Data
-Contents
-This repo contains 2 following files.
+Getting And Cleaning Data Contents
+
+This repo contains 2 following files -
 * run_analysis.R - R scrip to perform analysis
 * CodeBook.md - document that describes the variables, data, and transformations
+
 About run_analysis script
-This script will do the following –
+
+This script will do the following â€“
 1. first load all the files
 2. then will merge the training and the test sets to create one data set
 3. then will extract only the measurements on the mean and standard deviation
